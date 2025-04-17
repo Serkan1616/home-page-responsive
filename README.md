@@ -1,12 +1,30 @@
-# React + Vite
+#  Responsive React Landing Page with Dark Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive **React + Tailwind CSS** landing page template featuring:
 
-Currently, two official plugins are available:
+- Dark/light mode toggle 
+- Hamburger menu with mobile sidebar navigation
+- Hero section with call-to-action buttons 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Ekran görüntüsü 2025-04-17 223942](https://github.com/user-attachments/assets/2aa4c4c5-25ab-467a-88c2-233a5dc0df60)
 
-## Expanding the ESLint configuration
+![Ekran görüntüsü 2025-04-17 224004](https://github.com/user-attachments/assets/4b8a3cb0-e098-414d-a1f6-16e83f0176f3)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Ekran görüntüsü 2025-04-17 224033](https://github.com/user-attachments/assets/ce4121d7-b68e-4a70-9d6d-3321f3d3d5e1)
+
+![Ekran görüntüsü 2025-04-17 224057](https://github.com/user-attachments/assets/7dc79949-2bcd-4332-b5ea-b3b297e077db)
+
+
+
+## 🔧 Technologies Used
+
+- **React** (Functional Components & Hooks)
+- **Tailwind CSS**
+- **Mobile-first responsive design**
+
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev   # or npm start (based on your setup)
